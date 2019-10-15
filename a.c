@@ -8,7 +8,7 @@ int main()
     if(n<1918)
         {            if(n%4==0)
                 {
-                    printf("12.09.%d",n);
+                    printf("28.10.%d",n);
                 }
             if(n%4!=0)
                 {
